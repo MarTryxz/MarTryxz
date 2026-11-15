@@ -10,14 +10,14 @@
 
 ---
 
-### 🧭 Sobre mí
+### Sobre mí
 
-- 🏛️ Construyo **sistemas internos para el sector público**: gestión de RRHH, contratos, solicitudes de funcionarios y migración de bases de datos.
-- 🤖 Me interesa llevar la **IA a flujos reales**: servidores MCP para Claude, bots con LLMs locales y herramientas que exportan procesos como contexto para modelos.
-- 🎮 En mi tiempo libre hago **mods y herramientas para Minecraft** y experimento con **Unity** (un Tower Defense en curso).
-- 🔌 También me gusta el **IoT**: apps conectadas a Arduino y sensores.
+- Construyo **sistemas internos para el sector público**: gestión de RRHH, contratos, solicitudes de funcionarios y migración de bases de datos.
+- Me interesa llevar la **IA a flujos reales**: servidores MCP para Claude, bots con LLMs locales y herramientas que exportan procesos como contexto para modelos.
+- En mi tiempo libre hago **mods y herramientas para Minecraft** y experimento con **Unity** (un Tower Defense en curso).
+- También me gusta el **IoT**: apps conectadas a Arduino y sensores.
 
-### 🛠️ Stack
+### Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,php,laravel,python,java,cs,unity,postgres,supabase,mysql,vercel,git&perline=8" alt="stack">
