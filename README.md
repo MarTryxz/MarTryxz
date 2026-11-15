@@ -37,8 +37,11 @@
 ### 📊 Estadísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarTryxz&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=es" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarTryxz&layout=compact&hide_border=true&theme=github_dark&locale=es" alt="lenguajes">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarTryxz&theme=github_dark" alt="stats">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarTryxz&theme=github_dark" alt="lenguajes">
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=MarTryxz&theme=github-dark-blue&hide_border=true&locale=es" alt="racha">
 </p>
 
 ### 📫 Contacto
